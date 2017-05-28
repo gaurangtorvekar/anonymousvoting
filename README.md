@@ -73,7 +73,7 @@ Example: ./geth --dev --rpc --ipcpath "~/Library/Ethereum/geth.ipc" --rpcapi="db
  
 2. Compile the .SOL, and send it to the Ethereum Network.
 
-3. Update vote.html, admin.html livetally.html with the correct abi/contract address.
+3. Update vote.html, admin.html livefeed.html with the correct abi/contract address.
 
 4. Voters open vote.html, and the Election Admin opens admin.html
 
